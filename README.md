@@ -11,3 +11,7 @@ TODO:
 * Doing something cute like putting the messages on a virtual card catalogue card.
 * web service?
 * twitter bot?
+
+Please see the LICENSE.md file for licensing. Any contributions must conform to the license for this project.
+
+
